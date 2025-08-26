@@ -1,6 +1,6 @@
 # Frontend Mentor - Recipe page solution
 
-This is a solution to the [Recipe page challenge on Frontend Mentor](https://github.com/barbare999/recipe-page-main.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://github.com/BarbareUgrekhelidze/recipe-page-main.git). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -11,8 +11,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://git
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/barbare999/recipe-page-main.git)
-- Live Site URL: [Add live site URL here](https://barbare999.github.io/recipe-page-main/)
+- Solution URL: [Add solution URL here](https://github.com/BarbareUgrekhelidze/recipe-page-main.git)
+- Live Site URL: [Add live site URL here](https://BarbareUgrekhelidze.github.io/recipe-page-main/)
 
 ### Built with
 
