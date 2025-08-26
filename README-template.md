@@ -23,4 +23,4 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://git
 ## Author
 
 - Website - [Add your name here](https://BarbareUgrekhelidze.github.io/recipe-page-main/)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/BarbareUgrekhelidze)
+- Frontend Mentor - [@BarbareUgrekhelidze](https://www.frontendmentor.io/profile/BarbareUgrekhelidze)
