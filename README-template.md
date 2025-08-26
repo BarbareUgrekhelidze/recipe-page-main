@@ -22,6 +22,5 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://git
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Add your name here](https://BarbareUgrekhelidze.github.io/recipe-page-main/)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/BarbareUgrekhelidze)
